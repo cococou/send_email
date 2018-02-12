@@ -70,7 +70,7 @@ python3 sd_email.py -s "email content" -t someone1@qq.com,someone2@qq.com --imag
 
 #### 测试文件：
 
-python3 sd_email.py -s push_test -t 365731337@qq.com --images test/L171128-A1.cnv.png --attachs test/test.tar.gz -f test/file.txt
+python3 sd_email.py -s push_test -t 36******@qq.com --images test/L171128-A1.cnv.png --attachs test/test.tar.gz -f test/file.txt
 
 #### 缺点：
 
